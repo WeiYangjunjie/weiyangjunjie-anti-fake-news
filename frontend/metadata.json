@@ -1,0 +1,5 @@
+{
+  "name": "Social Anti-Fake News",
+  "description": "A community-driven platform to detect and vote on the credibility of news. Users can view, vote, comment, and submit news stories to fight misinformation.",
+  "requestFramePermissions": []
+}
